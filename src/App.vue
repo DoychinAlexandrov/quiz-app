@@ -2,7 +2,7 @@
 import { ref, computed } from "vue";
 const questions = ref([
   {
-    question: "What is Vue?",
+    question: "What is alo.bgg?",
     answer: 0,
     options: ["A framework", "A library", "A type of hat"],
     selected: null,
