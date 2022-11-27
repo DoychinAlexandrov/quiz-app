@@ -14,7 +14,7 @@ const questions = ref([
     selected: null,
   },
   {
-    question: "What is Vue Router?",
+    question: "what is this course?",
     answer: 1,
     options: [
       "An ice cream maker",
